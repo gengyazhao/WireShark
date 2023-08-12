@@ -1,0 +1,2 @@
+过滤IP包
+ip.addr==x.x.x.x
